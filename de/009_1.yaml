@@ -5,6 +5,7 @@ my:
       dough:
       - Eier
       - Mehl
+      - Mehl
       cream:
       - Zucker
       - Milch
